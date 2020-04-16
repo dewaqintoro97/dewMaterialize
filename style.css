@@ -1,0 +1,113 @@
+.slider h3{
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+	color: white;
+}
+
+.slider h5{
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+
+	color: white;
+}
+
+.parallax-container{
+	/*height: 20%;*/
+  height: 220px;
+}
+
+.clients{
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.clients img{
+	max-height: 40px;
+	filter: drop-shadow(2 px 2px 2px rgba(0,0,0,0.8));
+}
+
+#kartu {
+	margin: 20px;
+}
+
+.kartu{
+	margin-top: 20px;
+	margin-left: 120px;
+	margin-right: 50px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+  border-radius: 5px;
+}
+
+.card2:hover {
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+  border-radius: 5px;
+}
+
+.card3:hover {
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+.card4 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+  border-radius: 5px;
+}
+
+.card4:hover {
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+
+section, footer{
+	padding: 1px 0;
+}
+
+.link{
+  color: black;
+}
+
+
+/*html*/
+/*.kontenHtml{
+  background: #F5F5F5;
+  margin-top: 30px;
+  width: 80%;
+  padding: 10px;
+}*/
+
+
+
+
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card:hover {
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+.link{
+  color: black;
+}
